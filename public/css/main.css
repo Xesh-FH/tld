@@ -1,0 +1,11 @@
+img.inline-logo {
+    height: 1em;
+}
+
+.content-text-area {
+    min-height: 30vh !important;
+}
+
+.bg-tld-blue {
+    background: #014f9a !important;
+}
